@@ -1,0 +1,123 @@
+html,
+body {
+  color: #000;
+  font-family: "Roboto", sans-serif;
+  /* font-family: "Open Sans", serif; */
+  /* font-family: "Roboto", sans-serif; */
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.stop {
+  overflow: hidden;
+  // padding-right: 15px;
+}
+
+
+.stickytab_row {
+  display: flex;
+
+  &.stickytab_fixed {
+    // смещается от своего места до верха страницы
+    // background-color: var(--stickytabFixed-color);
+
+    table tbody td {
+      color: #4f4f4f;
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 1.2;
+      text-align: right;
+      letter-spacing: 0.02em;
+      border-bottom-width: 1px;
+    }
+
+    position: sticky;
+    z-index: 50;
+  }
+}
+
+.stickytab {
+  table {
+    margin-bottom: 0;
+  }
+}
+
+td {
+  min-width: 90px;
+  max-width: 90px;
+  text-align: left;
+  overflow: hidden;
+
+  .at-max(480px, {
+    font-size: 12px;
+    padding: 3px 5px;
+    min-width: 70px;
+    max-width: 70px;
+  });
+}
+
+
+
+.stickytab0,
+.stickytab2 {
+  width: 250px;
+
+  .at-max(1080px, {
+    width: 160px;
+  });
+
+.at-max(480px, {
+  width: 90px;
+});
+overflow: hidden;
+flex-shrink: 0;
+
+td {
+  text-align: left;
+}
+}
+
+.stickytab0 {
+  //background-color: var(--admin-color-dark);
+}
+
+.stickytab0 tr,
+.stickytab1 tr {
+  background: #fff;
+}
+
+.stickytab0 table,
+.stickytab1 table {
+  height: 100%;
+}
+
+.stickytab1 {
+  width: 100%;
+  overflow: hidden;
+}
+
+.stickytab2 {
+  overflow: auto;
+
+  td {
+    white-space: nowrap;
+  }
+}
+
+.stickytab3 {
+  width: 100%;
+  overflow: auto;
+  border-left: 2px solid #e7e7e7;
+
+  td {
+    text-align: right;
+  }
+}
+
+.stickytab1 {
+  border-left: 2px solid #eee;
+}

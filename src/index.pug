@@ -1,0 +1,38 @@
+- var pageTitle = 'Главная страница'
+- var seoKeywords = 'Ключевые слова для страницы'
+- var seoDesc = 'Сео описание для страницы'
+
+include __const
+
+
+<!DOCTYPE html>
+html(lang="ru-RU")
+  head
+    +head
+  body
+    .site__header
+      
+    .site__center
+      .stickytable
+        .stickytab_row.stickytab_top
+          .stickytab.stickytab0
+            table.table.table-condensed.table-bordered
+              //- @foreach (var row in Model.Top) {@Html.Raw(row.Left)}
+          .stickytab.stickytab1
+            table.table.table-condensed.table-bordered
+              //- @foreach (var row in Model.Top) {@Html.Raw(row.Right)}
+        .stickytab_row.stickytab_rest
+          .stickytab.stickytab2
+            table.table.table-striped.table-condensed.table-bordered
+              //- @foreach (var row in Model.Rest) {@Html.Raw(row.Left)}
+          .stickytab.stickytab3
+            table.table.table-striped.table-condensed.table-bordered
+              //- @foreach (var row in Model.Rest) {@Html.Raw(row.Right)}
+      
+    .site__footer
+      
+
+    +scripts
+
+
+

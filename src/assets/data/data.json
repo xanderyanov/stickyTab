@@ -1,0 +1,560 @@
+{
+  "logo": "Site name",
+
+  "size": ["XS", "S", "M", "L", "XL", "XXL", "XXXL"],
+
+  "labels": {
+    "copy": {
+      "company": "© \"Company\" 2018",
+      "maker1": "Made with",
+      "maker2": "A1ex"
+    },
+    "error": {
+      "title": "Извините, но здесь ничего нет.",
+      "message": "<p>Неправильно набран адрес, или такой страницы больше не существует.</p><p>Чтобы продолжить работу с сайтом <a href='/'>вернитесь на главную страницу.</a></p>"
+    }
+  },
+  "eCatalogBaseSlider": [
+    {
+      "id": "321321321",
+      "title": "Sebastian Professional",
+      "content": "Кондиционер Dark Oil Lightweight Conditioner",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/01.jpg"
+    },
+    {
+      "id": "321321321",
+      "title": "Sebastian Professional",
+      "content": "Кондиционер Dark Oil Lightweight Conditioner",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/02.jpg"
+    },
+    {
+      "id": "321321321",
+      "title": "Sebastian Professional",
+      "content": "Кондиционер Dark Oil Lightweight Conditioner",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/03.jpg"
+    },
+    {
+      "id": "321321321",
+      "title": "Sebastian Professional",
+      "content": "Кондиционер Dark Oil Lightweight Conditioner",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/04.jpg"
+    },
+    {
+      "id": "321321321",
+      "title": "Sebastian Professional",
+      "content": "Кондиционер Dark Oil Lightweight Conditioner",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/05.jpg"
+    },
+    {
+      "id": "321321321",
+      "title": "Sebastian Professional",
+      "content": "Кондиционер Dark Oil Lightweight Conditioner",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/06.jpg"
+    },
+    {
+      "id": "321321321",
+      "title": "Sebastian Professional",
+      "content": "Кондиционер Dark Oil Lightweight Conditioner",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/07.jpg"
+    }
+  ],
+
+  "eCatalogBaseFav": [
+    {
+      "id": "321321321",
+      "title": "Sebastian Professional",
+      "content": "Кондиционер Dark Oil Lightweight Conditioner",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/01.jpg"
+    },
+    {
+      "id": "321321322",
+      "title": "Guinot",
+      "content": "Омолаживающий тональный крем Youth Time №4",
+      "discount": "-30%",
+      "price": "2500",
+      "oldPrice": "3000",
+      "img": "btlassets/img/ecatalog/02.jpg"
+    },
+    {
+      "id": "321321323",
+      "title": "Nioxin",
+      "content": "Очищающий шампунь Система 1",
+      "discount": "",
+      "price": "2500",
+      "oldPrice": "",
+      "img": "btlassets/img/ecatalog/03.jpg"
+    },
+    {
+      "id": "321321324",
+      "title": "Oribe",
+      "content": "Шампунь для блеска «Драгоценное сияние» Shampoo for Brilliance & Shine",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/04.jpg"
+    },
+    {
+      "id": "321321325",
+      "title": "Smith & Cult",
+      "content": "Лак для ногтей «Шаг вперед» Mannequin Moves Nail Lacquer ",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/05.jpg"
+    },
+    {
+      "id": "321321322",
+      "title": "Guinot",
+      "content": "Омолаживающий тональный крем Youth Time №4",
+      "discount": "-30%",
+      "price": "2500",
+      "oldPrice": "3000",
+      "img": "btlassets/img/ecatalog/06.jpg"
+    }
+  ],
+
+  "eCatalogBase": [
+    {
+      "id": "321321321",
+      "title": "Sebastian Professional",
+      "content": "Кондиционер Dark Oil Lightweight Conditioner",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/01.jpg"
+    },
+    {
+      "id": "321321322",
+      "title": "Guinot",
+      "content": "Омолаживающий тональный крем Youth Time №4",
+      "discount": "-30%",
+      "price": "2500",
+      "oldPrice": "3000",
+      "img": "btlassets/img/ecatalog/02.jpg"
+    },
+    {
+      "id": "321321323",
+      "title": "Nioxin",
+      "content": "Очищающий шампунь Система 1",
+      "discount": "",
+      "price": "2500",
+      "oldPrice": "",
+      "img": "btlassets/img/ecatalog/03.jpg"
+    },
+    {
+      "id": "321321324",
+      "title": "Oribe",
+      "content": "Шампунь для блеска «Драгоценное сияние» Shampoo for Brilliance & Shine",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/04.jpg"
+    },
+    {
+      "id": "321321325",
+      "title": "Smith & Cult",
+      "content": "Лак для ногтей «Шаг вперед» Mannequin Moves Nail Lacquer ",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/05.jpg"
+    },
+    {
+      "id": "321321322",
+      "title": "Guinot",
+      "content": "Омолаживающий тональный крем Youth Time №4",
+      "discount": "-30%",
+      "price": "2500",
+      "oldPrice": "3000",
+      "img": "btlassets/img/ecatalog/06.jpg"
+    },
+    {
+      "id": "321321323",
+      "title": "Nioxin",
+      "content": "Очищающий шампунь Система 1",
+      "discount": "",
+      "price": "2500",
+      "oldPrice": "",
+      "img": "btlassets/img/ecatalog/07.jpg"
+    },
+    {
+      "id": "321321324",
+      "title": "Oribe",
+      "content": "Шампунь для блеска «Драгоценное сияние» Shampoo for Brilliance & Shine",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/08.jpg"
+    },
+    {
+      "id": "321321325",
+      "title": "Smith & Cult",
+      "content": "Лак для ногтей «Шаг вперед» Mannequin Moves Nail Lacquer ",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/09.jpg"
+    },
+    {
+      "id": "321321323",
+      "title": "Nioxin",
+      "content": "Очищающий шампунь Система 1",
+      "discount": "",
+      "price": "2500",
+      "oldPrice": "",
+      "img": "btlassets/img/ecatalog/10.jpg"
+    },
+    {
+      "id": "321321324",
+      "title": "Oribe",
+      "content": "Шампунь для блеска «Драгоценное сияние» Shampoo for Brilliance & Shine",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/11.jpg"
+    },
+    {
+      "id": "321321325",
+      "title": "Smith & Cult",
+      "content": "Лак для ногтей «Шаг вперед» Mannequin Moves Nail Lacquer ",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/12.jpg"
+    }
+  ],
+  "caroucel1": [
+    {
+      "id": "321321321",
+      "title": "Sebastian Professional",
+      "content": "Кондиционер Dark Oil Lightweight Conditioner",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/01.jpg"
+    },
+    {
+      "id": "321321322",
+      "title": "Guinot",
+      "content": "Омолаживающий тональный крем Youth Time №4",
+      "discount": "-30%",
+      "price": "2500",
+      "oldPrice": "3000",
+      "img": "btlassets/img/ecatalog/02.jpg"
+    },
+    {
+      "id": "321321323",
+      "title": "Nioxin",
+      "content": "Очищающий шампунь Система 1",
+      "discount": "",
+      "price": "2500",
+      "oldPrice": "",
+      "img": "btlassets/img/ecatalog/03.jpg"
+    },
+    {
+      "id": "321321324",
+      "title": "Oribe",
+      "content": "Шампунь для блеска «Драгоценное сияние» Shampoo for Brilliance & Shine",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/04.jpg"
+    },
+    {
+      "id": "321321324",
+      "title": "Oribe",
+      "content": "Шампунь для блеска «Драгоценное сияние» Shampoo for Brilliance & Shine",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/11.jpg"
+    },
+    {
+      "id": "321321325",
+      "title": "Smith & Cult",
+      "content": "Лак для ногтей «Шаг вперед» Mannequin Moves Nail Lacquer ",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/12.jpg"
+    }
+  ],
+  "caroucel2": [
+    {
+      "id": "321321323",
+      "title": "Nioxin",
+      "content": "Очищающий шампунь Система 1",
+      "discount": "",
+      "price": "2500",
+      "oldPrice": "",
+      "img": "btlassets/img/ecatalog/10.jpg"
+    },
+    {
+      "id": "321321324",
+      "title": "Oribe",
+      "content": "Шампунь для блеска «Драгоценное сияние» Shampoo for Brilliance & Shine",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/11.jpg"
+    },
+    {
+      "id": "321321325",
+      "title": "Smith & Cult",
+      "content": "Лак для ногтей «Шаг вперед» Mannequin Moves Nail Lacquer ",
+      "discount": "-50%",
+      "price": "2500",
+      "oldPrice": "3500",
+      "img": "btlassets/img/ecatalog/12.jpg"
+    }
+  ],
+  "newSlider": [
+    {
+      "id": "321321323",
+      "title": "Косметика для женщин",
+      "img": "btlassets/img/rubr/01.jpg"
+    },
+    {
+      "id": "321321323",
+      "title": "Косметика для мужчин",
+      "img": "btlassets/img/rubr/02.jpg"
+    },
+    {
+      "id": "321321323",
+      "title": "Косметика для ног",
+      "img": "btlassets/img/rubr/03.jpg"
+    },
+    {
+      "id": "321321323",
+      "title": "Косметика для тела",
+      "img": "btlassets/img/rubr/04.jpg"
+    },
+    {
+      "id": "321321323",
+      "title": "Косметика для ногтей",
+      "img": "btlassets/img/rubr/05.jpg"
+    },
+    {
+      "id": "321321323",
+      "title": "Косметика для волос",
+      "img": "btlassets/img/rubr/06.jpg"
+    },
+    {
+      "id": "321321323",
+      "title": "Косметика для женщин",
+      "img": "btlassets/img/rubr/01.jpg"
+    },
+    {
+      "id": "321321323",
+      "title": "Косметика для мужчин",
+      "img": "btlassets/img/rubr/02.jpg"
+    },
+    {
+      "id": "321321323",
+      "title": "Косметика для ног",
+      "img": "btlassets/img/rubr/03.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": "321321321",
+      "Name": "Пациент +7-986-98XXXXX",
+      "avatar": "https://bt-l.ru/.cache/img/sotrudniki2020/solod1-5-208-208.jpg",
+      "date": "04.08.2021",
+      "time": "12:00",
+      "text": "Очень помогла мне и моему ребёнку справиться без лекарств, без бесконечных походов по врачам, сдачи кучи анализов  и прочего.  Видит человека и его проблему. Уже не раз обращалась к ней, всегда внимательно выслушает, и назначит нужный препарат",
+      "fulltext": "Очень помогла мне и моему ребёнку справиться без лекарств, без бесконечных походов по врачам, сдачи кучи анализов  и прочего.  Видит человека и его проблему. Уже не раз обращалась к ней, всегда внимательно выслушает, и назначит нужный препарат Очень помогла мне и моему ребёнку справиться без лекарств, без бесконечных походов по врачам, сдачи кучи анализов  и прочего.  Видит человека и его проблему. Уже не раз обращалась к ней, всегда внимательно выслушает, и назначит нужный препарат",
+      "doktorName": "Касаткина Кристина Сергеевна",
+      "doktorPosition": "Врач косметолог"
+    },
+    {
+      "id": "321321321",
+      "Name": "Пациент +7-986-98XXXXX",
+      "avatar": "https://bt-l.ru/.cache/img/sotrudniki2020/turina1-5-208-208.jpg",
+      "date": "04.08.2021",
+      "time": "12:00",
+      "text": "Огромное спасибо Вере Эдуардовне, у неё золотые руки!!!Всех благ и процветания Вам и Вашему Центру!!!",
+      "fulltext": "",
+      "doktorName": "Тюрина Александра Андреевна",
+      "doktorPosition": "Врач косметолог"
+    },
+    {
+      "id": "321321321",
+      "Name": "Пациент +7-986-98XXXXX",
+      "avatar": "https://bt-l.ru/.cache/img/sotrudniki2020/hrapova1-5-208-208.jpg",
+      "date": "04.08.2021",
+      "time": "12:00",
+      "text": "Очень помогла мне и моему ребёнку справиться без лекарств, без бесконечных походов по врачам, сдачи кучи анализов  и прочего.  Видит человека и его проблему. Уже не раз обращалась к ней, всегда внимательно выслушает, и назначит нужный препарат",
+      "fulltext": "Очень помогла мне и моему ребёнку справиться без лекарств, без бесконечных походов по врачам, сдачи кучи анализов  и прочего.  Видит человека и его проблему. Уже не раз обращалась к ней, всегда внимательно выслушает, и назначит нужный препарат Очень помогла мне и моему ребёнку справиться без лекарств, без бесконечных походов по врачам, сдачи кучи анализов  и прочего.  Видит человека и его проблему. Уже не раз обращалась к ней, всегда внимательно выслушает, и назначит нужный препарат",
+      "doktorName": "Храпова Светлана Леонидовна",
+      "doktorPosition": "Врач косметолог"
+    },
+    {
+      "id": "321321321",
+      "Name": "Пациент +7-986-98XXXXX",
+      "avatar": "https://bt-l.ru/.cache/img/sotrudniki2020/kayushkina1-5-208-208.jpg",
+      "date": "04.08.2021",
+      "time": "12:00",
+      "text": "Огромное спасибо Вере Эдуардовне, у неё золотые руки!!!Всех благ и процветания Вам и Вашему Центру!!!",
+      "fulltext": "Очень помогла мне и моему ребёнку справиться без лекарств, без бесконечных походов по врачам, сдачи кучи анализов  и прочего.  Видит человека и его проблему. Уже не раз обращалась к ней, всегда внимательно выслушает, и назначит нужный препарат Очень помогла мне и моему ребёнку справиться без лекарств, без бесконечных походов по врачам, сдачи кучи анализов  и прочего.  Видит человека и его проблему. Уже не раз обращалась к ней, всегда внимательно выслушает, и назначит нужный препарат",
+      "doktorName": "Каюшкина Ирина Геннадьевна",
+      "doktorPosition": "Врач косметолог"
+    },
+    {
+      "id": "321321321",
+      "Name": "Пациент +7-986-98XXXXX",
+      "avatar": "https://bt-l.ru/.cache/img/sotrudniki2020/vasilchenko1-5-208-208.jpg",
+      "date": "04.08.2021",
+      "time": "12:00",
+      "text": "Очень помогла мне и моему ребёнку справиться без лекарств, без бесконечных походов по врачам, сдачи кучи анализов  и прочего.  Видит человека и его проблему. Уже не раз обращалась к ней, всегда внимательно выслушает, и назначит нужный препарат",
+      "fulltext": "Очень помогла мне и моему ребёнку справиться без лекарств, без бесконечных походов по врачам, сдачи кучи анализов  и прочего.  Видит человека и его проблему. Уже не раз обращалась к ней, всегда внимательно выслушает, и назначит нужный препарат Очень помогла мне и моему ребёнку справиться без лекарств, без бесконечных походов по врачам, сдачи кучи анализов  и прочего.  Видит человека и его проблему. Уже не раз обращалась к ней, всегда внимательно выслушает, и назначит нужный препарат",
+      "doktorName": "Васильченко Анна Сергеевна",
+      "doktorPosition": "Врач косметолог"
+    },
+    {
+      "id": "321321321",
+      "Name": "Пациент +7-986-98XXXXX",
+      "avatar": "https://bt-l.ru/.cache/img/sotrudniki2020/rodionova1-5-208-208.jpg",
+      "date": "04.08.2021",
+      "time": "12:00",
+      "text": "Огромное спасибо Вере Эдуардовне, у неё золотые руки!!!Всех благ и процветания Вам и Вашему Центру!!!",
+      "fulltext": "Очень помогла мне и моему ребёнку справиться без лекарств, без бесконечных походов по врачам, сдачи кучи анализов  и прочего.  Видит человека и его проблему. Уже не раз обращалась к ней, всегда внимательно выслушает, и назначит нужный препарат Очень помогла мне и моему ребёнку справиться без лекарств, без бесконечных походов по врачам, сдачи кучи анализов  и прочего.  Видит человека и его проблему. Уже не раз обращалась к ней, всегда внимательно выслушает, и назначит нужный препарат",
+      "doktorName": "Родионова Юлия Александровна",
+      "doktorPosition": "Врач косметолог"
+    }
+  ],
+  "Blog2": [
+    {
+      "id": "321321321",
+      "date": "01.09.2022",
+      "title": "Аппараты для интимного омоложения",
+      "content": "",
+      "like": "123",
+      "dislike": "5",
+      "img": "btlassets/img/blog2/01.jpg"
+    },
+    {
+      "id": "321321322",
+      "date": "02.09.2022",
+      "title": "Отек глаз и лица — причины, диагностика и лечение",
+      "content": "",
+      "like": "123",
+      "dislike": "5",
+      "img": "btlassets/img/blog2/02.jpg"
+    },
+    {
+      "id": "321321323",
+      "date": "03.09.2022",
+      "title": "Лечение целлюлита",
+      "content": "",
+      "like": "123",
+      "dislike": "5",
+      "img": "btlassets/img/blog2/03.jpg"
+    },
+    {
+      "id": "321321324",
+      "date": "04.09.2022",
+      "title": "Блефаропластика — что нужно знать о пластике век",
+      "content": "",
+      "like": "123",
+      "dislike": "5",
+      "img": "btlassets/img/blog2/04.jpg"
+    },
+    {
+      "id": "321321325",
+      "date": "05.09.2022",
+      "title": "Липосакция",
+      "content": "",
+      "like": "123",
+      "dislike": "5",
+      "img": "btlassets/img/blog2/05.jpg"
+    },
+    {
+      "id": "321321326",
+      "date": "06.09.2022",
+      "title": "Ожирение — симптомы и лечение",
+      "content": "",
+      "like": "123",
+      "dislike": "5",
+      "img": "btlassets/img/blog2/06.jpg"
+    },
+    {
+      "id": "321321327",
+      "date": "07.09.2022",
+      "title": "Храп — причины и методы лечения",
+      "content": "",
+      "like": "123",
+      "dislike": "5",
+      "img": "btlassets/img/blog2/07.jpg"
+    },
+    {
+      "id": "321321328",
+      "date": "08.09.2022",
+      "title": "Лечение выпадения волос",
+      "content": "",
+      "like": "123",
+      "dislike": "5",
+      "img": "btlassets/img/blog2/08.jpg"
+    },
+    {
+      "id": "321321329",
+      "date": "9.09.2022",
+      "title": "Прыщи на лице — причины и методы лечения",
+      "content": "",
+      "like": "123",
+      "dislike": "5",
+      "img": "btlassets/img/blog2/09.jpg"
+    },
+    {
+      "id": "321321330",
+      "date": "10.09.2022",
+      "title": "Розацеа лица - лечение, диагностика, причины и симптомы",
+      "content": "",
+      "like": "123",
+      "dislike": "5",
+      "img": "btlassets/img/blog2/10.jpg"
+    },
+    {
+      "id": "321321331",
+      "date": "11.09.2022",
+      "title": "Акне и постакне лица — причины возникновения и особенности лечения",
+      "content": "",
+      "like": "123",
+      "dislike": "5",
+      "img": "btlassets/img/blog2/11.jpg"
+    },
+    {
+      "id": "321321332",
+      "date": "12.09.2022",
+      "title": "Причины появления пигментых пятен",
+      "content": "",
+      "like": "123",
+      "dislike": "5",
+      "img": "btlassets/img/blog2/12.jpg"
+    }
+  ]
+}

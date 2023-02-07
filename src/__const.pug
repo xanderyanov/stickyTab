@@ -1,0 +1,36 @@
+mixin head
+  head
+    meta(charset='utf-8')
+    title= pageTitle
+    meta(name='keywords' content='[[*seokeywords]]')
+    meta(name='description' content='[[*seodescription]]')
+
+    meta(name='HandheldFriendly' content='True')
+    meta(name='MobileOptimized' content='320')
+    meta(name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no')
+    meta(http-equiv='X-UA-Compatible' content='IE=edge')
+    meta(name='imagetoolbar' content='no')
+    meta(name='msthemecompatible' content='no')
+    meta(name='format-detection' content='telephone=no')
+    meta(name='format-detection' content='address=no')
+    meta(name='theme-color' content='#ffffff')
+    meta(name='apple-mobile-web-app-capable' content='yes')
+    meta(name='apple-mobile-web-app-status-bar-style' content='black-translucent')
+    link(rel='apple-touch-icon-precomposed' href='assets/img/apple/h/apple-touch-icon.png')
+    link(rel='apple-touch-icon-precomposed' href='assets/img/apple/m/apple-touch-icon.png')
+    link(rel='apple-touch-icon-precomposed' href='assets/img/apple/l/apple-touch-icon-precomposed.png')
+    link(rel='shortcut icon' href='assets/img/apple/l/apple-touch-icon.png')
+    link(rel='shortcut icon' href='assets/img/favicon.ico')
+
+    meta(property='og:url' content='[[*template:in=`1`:then=`[[~[[*id]]]]`:else=`[[++site_url]][[~[[*id]]]]`]]')
+    meta(property='og:type' content='website')
+    meta(property='og:title' content=pageTitle)
+    meta(property='og:description' content='[[*seodescription]]')
+    meta(property='og:image' content='[[++assets_url]]img/og-img.jpg')
+
+    link(rel='stylesheet' href='assets/css/vendors.css')
+    link(rel='stylesheet' href='assets/css/apps.css')
+
+mixin scripts
+  script(src='assets/js/vendors.js')
+  script(src='assets/js/app.js')
