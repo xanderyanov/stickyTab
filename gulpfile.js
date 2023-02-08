@@ -165,7 +165,7 @@ gulp.task(
 
 gulp.task('watch', function () {
   gulp
-    .watch('src/assets/less/btl/*.less*', gulp.series('less'))
+    .watch('src/assets/less/*.less*', gulp.series('less'))
     .on('uplink', function (filepath) {
       remember.forget('less', path.resolve(filepath));
       delete cached.caches.styles[path.resolve(filepath)];
@@ -177,7 +177,7 @@ gulp.task('watch', function () {
       delete cached.caches.image[path.resolve(filepath)];
     });
   gulp
-    .watch('src/assets/js/btl/*.js*', gulp.series('myJs'))
+    .watch('src/assets/js/*.js*', gulp.series('myJs'))
     .on('uplink', function (filepath) {
       remember.forget('myJs', path.resolve(filepath));
       delete cached.caches.myJs[path.resolve(filepath)];
